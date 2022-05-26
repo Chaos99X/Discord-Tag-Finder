@@ -1,0 +1,8 @@
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\bin\Debug\dctagfind.exe.config
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\bin\Debug\dctagfind.exe
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\bin\Debug\dctagfind.pdb
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\obj\Debug\dctagfind.csproj.AssemblyReference.cache
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\obj\Debug\dctagfind.csproj.SuggestedBindingRedirects.cache
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\obj\Debug\dctagfind.csproj.CoreCompileInputs.cache
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\obj\Debug\dctagfind.exe
+C:\Users\neeke\Desktop\koodi\dctagfind\dctagfind\obj\Debug\dctagfind.pdb
